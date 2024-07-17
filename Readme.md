@@ -32,3 +32,5 @@ This project entails creating a chess-playing robot using a KUKA robot arm, equi
 
 6. Handling FEN to stockfish Engine
 7. interpreting stockfish output to robot moving orders and sending it to PLC using ADS
+
+ ![alt text](vid_3_chess.mp4)
