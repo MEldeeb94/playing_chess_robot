@@ -8,7 +8,7 @@ This project entails creating a chess-playing robot using a KUKA robot arm, equi
 ## Software Elements
 1. ADS communcation for communication between PLC and PC
 2. took_photo function for taking new image
-![alt text](https://github.com/MEldeeb94/playing_chess_robot/blob/main/Images/1-%20image.png)
+![alt text](Images/1-%20image.png)
 2. Machine Vision model for detecting board corners (corner points are updated each 10 games)
 ![alt text](Images/2- Corners.jpg)
 3. image processing for clipping the took image 
