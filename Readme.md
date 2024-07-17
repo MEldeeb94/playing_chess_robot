@@ -10,12 +10,12 @@ This project entails creating a chess-playing robot using a KUKA robot arm, equi
 2. took_photo function for taking new image
 ![alt text](Images/1-%20image.png)
 2. Machine Vision model for detecting board corners (corner points are updated each 10 games)
-![alt text](Images/2- Corners.jpg)
+![alt text](Images/2-%20Corners.jpg)
 3. image processing for clipping the took image 
-![alt text](Images/3- clipped_image.jpg)
+![alt text](Images/3-%20clipped_image.jpg)
 4. Machine Vision model for detecting the chess figures 
-![alt text](Images/4- Figure_detection.jpg)
+![alt text](Images/4-%20Figure_detection.jpg)
 5. mapping all cehess figure to each board square then generating FEN code
-![alt text](Images/5- chessboard_transformed_with_grid_1.jpg)
+![alt text](Images/5-%20chessboard_transformed_with_grid_1.jpg)
 6. Handling FEN to stockfish Engine
 7. interpreting stockfish output to robot moving orders and sending it to PLC using ADS
