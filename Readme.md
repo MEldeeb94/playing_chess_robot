@@ -1,4 +1,4 @@
-# Chess Playing Robot (using KUKA Robot)
+# Playing Chess Robot (using KUKA Robot)
 This project entails creating a chess-playing robot using a KUKA robot arm, equipped with machine vision to identify the chessboard and pieces. The system integrates the Stockfish engine for board analysis and move decision-making. This setup allows the robot to autonomously play chess with high accuracy and strategic depth.
 ## Hardware Requirements
 1. KUKA Robot controller (KR C5 micro)
